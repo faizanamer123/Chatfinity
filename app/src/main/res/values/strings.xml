@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chatfinity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile_image_description">Profile Picture</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

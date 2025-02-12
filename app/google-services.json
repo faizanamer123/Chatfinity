@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390685927704",
+    "project_id": "chatfinity-18905",
+    "storage_bucket": "chatfinity-18905.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390685927704:android:ffcc2cec8b2e9ca55c566d",
+        "android_client_info": {
+          "package_name": "com.example.chatfinity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeH0vwkAuK9I0gY5b5srlsDc5Cb3Pu8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

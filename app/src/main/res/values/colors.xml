@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing Colors -->
+    <color name="primary">#FF5964</color>
+    <color name="secondary">#FFE74C</color>
+    <color name="off_white">#FDFDFD</color>
+    <color name="light_grey">#C3C3C3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="user_text_color">#FFFFFF</color>
+    <color name="chat_background">#F5F5F5</color>
+    <color name="accent">#6A0572</color> <!-- Deep Purple for highlights -->
+    <color name="background">#F3F4F6</color> <!-- Dark background for modern UI -->
+    <color name="chat_bubble_user">#4CAF50</color> <!-- Green for user messages -->
+    <color name="chat_bubble_bot">#2196F3</color> <!-- Blue for bot responses -->
+    <color name="error_red">#E53935</color> <!-- Vibrant red for error messages -->
+    <color name="success_green">#00C853</color> <!-- Bright green for success states -->
+    <color name="warning_orange">#FF9800</color> <!-- Orange for warnings -->
+    <color name="info_blue">#0288D1</color> <!-- Calm blue for informational messages -->
+    <color name="soft_yellow">#FFF9C4</color> <!-- Soft yellow for highlights -->
+    <color name="placeholder_grey">#B0BEC5</color> <!-- Grey for text placeholders -->
+    <color name="hover_effect">#D1C4E9</color> <!-- Subtle purple for hover effects -->
+    <color name="button_primary">#673AB7</color> <!-- Bold purple for primary buttons -->
+    <color name="button_secondary">#FF5722</color> <!-- Vibrant orange for secondary buttons -->
+    <color name="divider">#E0E0E0</color> <!-- Light grey for dividers -->
+    <color name="link_blue">#3D5AFE</color> <!-- Bright blue for hyperlinks -->
+    <color name="card_background">#F5F5F5</color> <!-- Neutral light grey for cards -->
+    <color name="shadow_color">#4D000000</color> <!-- Subtle shadow effect -->
+
+    <color name="blue_light">#BBDEFB</color> <!-- Light Blue for splash background -->
+    <color name="blue_dark">#1E88E5</color> <!-- Deep Blue for logos/text -->
+    <color name="splash_accent">#0D47A1</color> <!-- Accent Blue for highlights -->
+
+    <color name="login_background">#B3E5FC</color> <!-- Light Blue to match splash -->
+    <color name="input_field_background">#FFFFFF</color> <!-- Clean white for input fields -->
+    <color name="input_field_border">#1565C0</color> <!-- Medium Blue for input borders -->
+    <color name="input_field_focused">#0D47A1</color> <!-- Dark Blue for focused input -->
+    <color name="button_active">#1565C0</color> <!-- Active button medium blue -->
+    <color name="button_inactive">#90CAF9</color> <!-- Inactive button pale blue -->
+    <color name="text_primary">#002D62</color> <!-- Deep Blue for primary text -->
+    <color name="text_secondary">#5C6BC0</color> <!-- Light Blue for secondary text -->
+    <color name="error_message">#E53935</color> <!-- Red for error text -->
+
+    <color name="primary_accent">#1E88E5</color>
+    <color name="secondary_accent">#0D47A1</color>
+    <color name="icon_tint">#1565C0</color>
+    <color name="primary_text">#212121</color>
+    <color name="hint_text">#757575</color>
+    <color name="progress_indicator">#1565C0</color>
+
+    <color name="background_primary">#F5F5F5</color> <!-- Light grey -->
+    <color name="toolbar_background">#6200EE</color> <!-- Purple -->
+    <color name="bottom_nav_background">#FFFFFF</color> <!-- White -->
+    <color name="bottom_nav_icon_tint">#6200EE</color> <!-- Purple -->
+    <color name="bottom_nav_text_color">#6200EE</color> <!-- Purple -->
+    <color name="divider_color">#E0E0E0</color> <!-- Light grey -->
+
+    <color name="background_p">#F4F4F4</color> <!-- Light Grey -->
+    <color name="toolbar_b">#1A237E</color> <!-- Dark Blue -->
+    <color name="input_background">#FFFFFF</color> <!-- White -->
+
+    <color name="text_p">#212121</color> <!-- Dark Grey -->
+    <color name="hint_t">#757575</color> <!-- Light Grey -->
+    <color name="accent_color">#009688</color> <!-- Teal -->
+    <color name="button_hover">#00796B</color> <!-- Dark Teal -->
+
+    <color name="primary_t">#212121</color>
+    <color name="secondary_t">#757575</color>
+    <color name="card_background_light">#E3F2FD</color>
+    <color name="card_background_dark">#FFFFFF</color>
+
+    <color name="blue_l">#E3F2FD</color>
+    <color name="blue_d">#1A237E</color>
+    <color name="blue_accent">#2196F3</color>
+    <color name="blue_light_tint">#BBDEFB</color>
+    <color name="blue_hint">#78909C</color>
+
+
+
+</resources>
